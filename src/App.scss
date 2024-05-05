@@ -1,0 +1,20 @@
+@import "../src/assets/styles/Header.scss";
+@import "../src/assets/styles/Home.scss";
+@import "../src/assets/styles/Product.scss";
+@import "../src/assets/styles/Basket.scss";
+@import "../src/assets/styles/Favorite.scss";
+@import "../src/assets/styles/ProductCard.scss";
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}

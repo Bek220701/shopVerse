@@ -1,0 +1,24 @@
+#product {
+  select {
+    padding: 10px 25px;
+    font-size: 17px;
+    border: none;
+    outline: none;
+  }
+  .sele1 {
+    padding: 10px 25px;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    margin-left: 1180px;
+  }
+  .product {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 80px;
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+  }
+}
